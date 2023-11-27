@@ -1,0 +1,3 @@
+[submodule "flexpa-work-sample"]
+	path = flexpa-work-sample
+	url = https://github.com/victoriadillman/flexpa-work-sample.git
